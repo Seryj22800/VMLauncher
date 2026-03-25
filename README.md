@@ -1,3 +1,1 @@
-Python: winget install -e --id Python.Python.3.11 --version 3.11.9
-Библиотеки: обновление менеджера пакетов: python -m pip install --upgrade pip
-		зависимости: pip install minecraft-launcher-lib Pillow
+Python: winget install -e --id Python.Python.3.11 --version 3.11.9; библиотеки: обновление менеджера пакетов: python -m pip install --upgrade pip, зависимости: pip install minecraft-launcher-lib Pillow
